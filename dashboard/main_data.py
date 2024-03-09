@@ -8,7 +8,7 @@ import calendar
 ### Gathering Data
 """
 
-data = pd.read_csv("https://raw.githubusercontent.com/AngelMartha/Bangkit-Dashboard/main/Changping_Clean.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/AngelMartha/Bangkit-Dashboard/main/data/PRSA_Data_Changping_20130301-20170228.csv")
 data
 
 """### Assessing Data

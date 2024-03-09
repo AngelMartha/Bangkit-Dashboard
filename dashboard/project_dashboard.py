@@ -20,7 +20,7 @@ def create_TEMP_tabel(df):
 
 
 #Membaca dataset
-data = pd.read_csv('https://raw.githubusercontent.com/AngelMartha/Bangkit-Dashboard/main/data_cleaning.csv')
+data = pd.read_csv('https://raw.githubusercontent.com/AngelMartha/Bangkit-Dashboard/main/dashboard/data_cleaning.csv')
 
 #Membuat bagian pertama dashboard
 st.title("Pemantauan Kualitas Udara⛅🌦️")
